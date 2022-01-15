@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612723332 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raypixelcolide/main.c
+	"raylib.h"
+	<stdlib.h>
+	"assert.h"
+
